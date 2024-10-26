@@ -9,9 +9,9 @@ Kairo Tool is an innovative race simulation game that utilizes AI technology to 
 - **Control with the Steering Wheel**: Use the virtual steering wheel to guide your car, detected through camera movement.
 - **Directional Control**:
   - **Left/Right**: Steer your car left or right based on the movement of the steering wheel.
-  - **Stop**: Come to a halt whenever required.
-  - **Reverse**: Move backward if necessary.
-  - **Turbo Option**: Activate turbo mode for a speed boost during races.
+  - **Stop**:  Come to a halt whenever required by a special gesture.
+  - **Reverse**: Move backward if necessary, with intuitive gesture controls.
+  - **Turbo Option**: Activate turbo mode for a speed boost during races through specific gestures in designated areas.
 
 ## Key Features
 - **AI-Driven Interaction**: Utilizes camera detection to accurately interpret the position of the steering wheel, providing real-time control.

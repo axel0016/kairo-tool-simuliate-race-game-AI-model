@@ -1,5 +1,5 @@
 # Kairo Tool: Simulate Race Game with AI Model
-
+ 
 ## About
 Kairo Tool is an innovative race simulation game that utilizes AI technology to enhance gameplay. Players control their car using a virtual steering wheel, allowing for an immersive experience that responds to the movement detected by the camera. The game not only reacts to left and right turns but also supports stop, reverse, and turbo options.
 
